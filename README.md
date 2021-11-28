@@ -6,10 +6,11 @@
 
 ## Installation
 
-To install the package from the github repo, `devtools` is required and the package can be installed by using following code:
+To install the package from the CRAN, the package can be installed by using following code:
 
 ```r
 install.packages("doex")
+library(doex)
 ```
 
 ## Usage
