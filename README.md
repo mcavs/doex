@@ -1,4 +1,4 @@
-<img align="right" width="220" height="240" src="https://github.com/analyticsresearchlab/thestats/blob/main/man/figures/logo.png" alt="thestats: An R package for exploring Turkish higher education statistics">
+<img align="right" width="220" height="240" src="https://github.com/mcavs/doex/blob/master/doexlogo.png">
 
 # doex: An R Package for The One-Way Heteroscedastic ANOVA Tests 
 
