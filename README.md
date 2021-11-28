@@ -76,6 +76,6 @@ If you use `doex`, please cite it:
 
 ## Contact
 
-For any questions and feedback, please dont hesitate to contact me via following e-mail adresses:
+For any questions and feedback, please dont hesitate to contact me via following e-mail address:
 
-mustafacavus@eskisehir.edu.tr 
+:e-mail: mustafacavus@eskisehir.edu.tr 
