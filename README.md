@@ -62,8 +62,7 @@ If you use `doex`, please cite it:
 @article{cavus2021,
   author = {Mustafa Cavus and Berna Yazıcı},
   title = {{Testing the equality of normal distributed and independent
-          groups' means under unequal variances by doex
-          package}},
+            groups' means under unequal variances by doex package}},
   year = {2021},
   journal = {{The R Journal}},
   doi = {10.32614/RJ-2021-008},
